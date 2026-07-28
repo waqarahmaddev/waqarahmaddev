@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Waqar Ahmad 👋 | Aspiring AI Application Developer
 
-<!--
-**waqarahmaddev/waqarahmaddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 On a 180-day mission: Zero to Pro Python & AI Integration
 
-Here are some ideas to get you started:
+🔥 Currently Learning: Python Foundations (Day 0 - Setup Done!)
+🛠️ Tech Stack: Python | Git | Soon: FastAPI, SQL, RAG, LangChain
+🎯 Goal: Build 15+ projects in 180 days & land AI developer role
+📍 Building in Public on LinkedIn daily
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🟩 Day 0 - War Room Setup ✅
+- Python 3.14.5 installed & working
+- VS Code + Git configured
+- First code `print("I am ready!")` executed!
+- Journey begins... InshaAllah!
+
+Check my repos below for daily progress! 👇
