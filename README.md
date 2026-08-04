@@ -2,8 +2,8 @@
 
 🚀 On a 180-day mission: Zero to Pro Python & AI Integration
 
-🔥 Currently Learning: Python Foundations (Day 2 - Operators & If-Else Done!) ✅ 
-🛠️ Tech Stack: Python | Git | Soon: FastAPI, SQL, RAG, LangChain
+🔥 Currently Learning: Python Foundations (Day 3 - Loops Done! Back After Practice!) ✅
+🛠 Tech Stack: Python | Git | Soon: FastAPI, SQL, RAG, LangChain
 🎯 Goal: Build 15+ projects in 180 days and land AI developer role
 📌 Building in Public on LinkedIn daily
 
@@ -27,5 +27,12 @@
 - Built 4 Projects: Even/Odd Checker, Grade Checker (A+ to F), Voting Eligibility, Bill Splitter
 - Key Learning: % for remainder logic, == vs = difference, indentation matters
 - Code: [180-days-python-ai/01-python-foundations/day2.py](https://github.com/waqarahmaddev/180-days-python-ai/tree/main/01-python-foundations/day2.py)
+
+### Day 3 - Control Flow: Loops (for, while) & Patterns ✅ (4 Aug 2026)
+- Loops Mastered: for loop (range), while loop, break, continue, nested loops
+- Logic Building: Multiplication Table, Sum & Average with loop, Star Pattern, Guessing Game
+- Key Learning: for = fixed repeats, while = till condition, indentation is life!
+- Comeback: Practiced 2 days, back stronger — No quit!
+- Code: [180-days-python-ai/01-python-foundations/day3.py](https://github.com/waqarahmaddev/180-days-python-ai/tree/main/01-python-foundations/day3.py)
 
 Check my repos below for daily progress! 👇
