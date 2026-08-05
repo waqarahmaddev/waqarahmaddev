@@ -2,7 +2,7 @@
 
 🚀 On a 180-day mission: Zero to Pro Python & AI Integration
 
-🔥 Currently Learning: Python Foundations (Day 3 - Loops Done! Back After Practice!) ✅
+🔥 Currently Learning: Python Foundations (Day 4 - Functions Done! Git Merge Mastered!) 💪 ✅
 🛠 Tech Stack: Python | Git | Soon: FastAPI, SQL, RAG, LangChain
 🎯 Goal: Build 15+ projects in 180 days and land AI developer role
 📌 Building in Public on LinkedIn daily
@@ -19,20 +19,27 @@
 - Print Tricks mastered: sep, end, f-strings, \n
 - Multiple Assignment: x,y,z = 5,10,15 & a=b=c=0
 - Built 3 Projects: Calculator, Swap Trick, AI Intro Card
-- Code: [180-days-python-ai/01-python-foundations/day1.py](https://github.com/waqarahmaddev/180-days-python-ai/tree/main/01-python-foundations/day1.py)
+- Code: [day1.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day1.py)
 
 ### Day 2 - Operators & If-Else ✅
 - Operators Mastered: Arithmetic (+, -, *, /, //, %, **), Comparison (==, >, <), Logical (and, or, not)
 - Logic Building: if, elif, else — How AI makes decisions
 - Built 4 Projects: Even/Odd Checker, Grade Checker (A+ to F), Voting Eligibility, Bill Splitter
 - Key Learning: % for remainder logic, == vs = difference, indentation matters
-- Code: [180-days-python-ai/01-python-foundations/day2.py](https://github.com/waqarahmaddev/180-days-python-ai/tree/main/01-python-foundations/day2.py)
+- Code: [day2.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day2.py)
 
 ### Day 3 - Control Flow: Loops (for, while) & Patterns ✅ (4 Aug 2026)
 - Loops Mastered: for loop (range), while loop, break, continue, nested loops
 - Logic Building: Multiplication Table, Sum & Average with loop, Star Pattern, Guessing Game
 - Key Learning: for = fixed repeats, while = till condition, indentation is life!
 - Comeback: Practiced 2 days, back stronger — No quit!
-- Code: [180-days-python-ai/01-python-foundations/day3.py](https://github.com/waqarahmaddev/180-days-python-ai/tree/main/01-python-foundations/day3.py)
+- Code: [day3.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day3.py)
+
+### Day 4 - Functions: def, return & Reusability ✅ (5 Aug 2026)
+- Functions Mastered: def, parameters, return, calling functions, reusable code
+- Logic Building: Calculator with Functions (add, sub, mul, div with zero handling), Greet, Even/Odd, Grade Checker, Bill Splitter
+- Key Learning: return vs print difference, function = reusable machine, DRY principle
+- Comeback: From merge conflicts + E325 swap error to successful push — No quit!
+- Code: [day4.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day4.py)
 
 Check my repos below for daily progress! 👇
