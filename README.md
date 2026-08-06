@@ -2,7 +2,7 @@
 
 🚀 On a 180-day mission: Zero to Pro Python & AI Integration
 
-🔥 Currently Learning: Python Foundations (Day 4 - Functions Done! Git Merge Mastered!) 💪 ✅
+🔥 Currently Learning: Python Foundations (Day 5 (6 Aug 2026) — Lists: sum, max, search, filter, count projects) 💪 ✅
 🛠 Tech Stack: Python | Git | Soon: FastAPI, SQL, RAG, LangChain
 🎯 Goal: Build 15+ projects in 180 days and land AI developer role
 📌 Building in Public on LinkedIn daily
@@ -41,5 +41,12 @@
 - Key Learning: return vs print difference, function = reusable machine, DRY principle
 - Comeback: From merge conflicts + E325 swap error to successful push — No quit!
 - Code: [day4.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day4.py)
+
+- ### Day 5 - Lists: sum, max, search, filter, count ✅ (6 Aug 2026)
+- Lists Mastered: Indexing, append, len, loop with list, building logic without built-in max()
+- Logic Building: Sum of list, Find Max (no max() used), Search Item, Filter Even Numbers, Count Occurrences
+- Key Learning: List starts at 0, for n in nums loop, append to build new list, DRY with functions
+- Comeback: Clean push, no merge conflict — Smooth after Day 4 war!
+- Code: [day5.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day5.py)
 
 Check my repos below for daily progress! 👇
