@@ -42,7 +42,7 @@
 - Comeback: From merge conflicts + E325 swap error to successful push — No quit!
 - Code: [day4.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day4.py)
 
-- ### Day 5 - Lists: sum, max, search, filter, count ✅ (6 Aug 2026)
+### Day 5 - Lists: sum, max, search, filter, count ✅ (6 Aug 2026)
 - Lists Mastered: Indexing, append, len, loop with list, building logic without built-in max()
 - Logic Building: Sum of list, Find Max (no max() used), Search Item, Filter Even Numbers, Count Occurrences
 - Key Learning: List starts at 0, for n in nums loop, append to build new list, DRY with functions
