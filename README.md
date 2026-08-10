@@ -49,4 +49,11 @@
 - Comeback: Clean push, no merge conflict — Smooth after Day 4 war!
 - Code: [day5.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day5.py)
 
+### Day 6 - Dictionaries: key-value, lookup & Topper Project ✅ (10 Aug 2026)
+- Dictionaries Mastered: dict creation, key-value access, .get(), update/add, .items(), .keys(), .values(), list of dicts
+- Logic Building: Student Records, Grade Adder, Loop with .items(), Find Topper with dict (Day 5 logic reused)
+- Key Learning: List = values only [90,85], Dict = real data {"name": "Waqar", "marks": 90}, key = label, .get() safe
+- Comeback: Back after 2-day break (8-9 Aug), green U to white push in 3 mins — Streak restarted!
+- Code: [day6.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day6.py)
+
 Check my repos below for daily progress! 👇
