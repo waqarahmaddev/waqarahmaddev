@@ -3,7 +3,7 @@
 🚀 On a 180-day mission: Zero to Pro Python & AI Integration
 
 🔥 Currently Learning: Python Foundations (Day 7 (11 Aug 2026) — Tuples & Sets: Immutable & Unique Skills Project) 💪 ✅
-🛠 Tech Stack: Python | Git | Soon: FastAPI, SQL, RAG, LangChain
+🛠 Tech Stack: Python | Git | Soon: FastAPI, SQL, RAG, LangChain 🎯 Goal: Build 15+ projects in 180 days and land AI developer role 📌 Building in Public on LinkedIn daily
 🎯 Goal: Build 15+ projects in 180 days and land AI developer role
 📌 Building in Public on LinkedIn daily
 
