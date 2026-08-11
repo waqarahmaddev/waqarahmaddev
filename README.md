@@ -56,4 +56,12 @@
 - Comeback: Back after 2-day break (8-9 Aug), green U to white push in 3 mins — Streak restarted!
 - Code: [day6.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day6.py)
 
+### Day 7 - Tuples & Sets: Immutable & Unique Skills Project 📚 (11 Aug 2026)
+- Tuples Mastered: Immutable (), packing/unpacking, tuple as dict key, faster than list
+- Sets Mastered: Unique {}, no duplicates, set() from list, add/discard, Union |, Intersection &, Difference -
+- Logic Building: Remove duplicates 1-liner `list(set())`, Common Skills Finder, Unique Voters Counter, Coordinates as tuple
+- Key Learning: Tuple = fixed data (DOB, coords), Set = unique only + fast membership, {} is dict not set!
+- Comeback: Git rebase learned - `rejected` -> `pull --rebase` -> push - Real team workflow!
+- Code: [day7.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day7.py)
+
 Check my repos below for daily progress! 👇
