@@ -2,7 +2,7 @@
 
 🚀 On a 180-day mission: Zero to Pro Python & AI Integration
 
-🔥 Currently Learning: Python Foundations (Day 7 (11 Aug 2026) — Tuples & Sets: Immutable & Unique Skills Project) 💪 ✅
+🔥 Currently Learning: Python Foundations (Day 8 (12 Aug 2026) — File Handling: Read/Write Project) 💪 ✅
 
 🛠 Tech Stack: Python | Git | Soon: FastAPI, SQL, RAG, LangChain
 
@@ -69,6 +69,13 @@
 - Key Learning: Tuple = fixed data (DOB, coords), Set = unique only + fast membership, {} is dict not set!
 - Comeback: Git rebase learned - `rejected` -> `pull --rebase` -> push - Real team workflow!
 - Code: [day7.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day7.py)
+
+### Day 8 - File Handling: Read, Write & To-Do App Project ✅ (12 Aug 2026)
+- File Handling Mastered: with open() as f, modes w/r/a, read(), write(), append, line-by-line loop
+- Projects: Notes Creator (w), Students Marks Saver + Topper Finder from file, To-Do List App (Real App Logic), Word Counter
+- Key Learning: with = auto close file, w = overwrite, a = append, r = read, file = permanent data — Backend basics!
+- Late night streak: Day 7 (11 Aug) -> Day 8 (12 Aug) 11 PM — Consistency > Time!
+- Code: [day8.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day8.py)
 
 ---
 Check my repos below for daily progress! 👇
