@@ -2,7 +2,7 @@
 
 🚀 On a 180-day mission: Zero to Pro Python & AI Integration
 
-🔥 Currently Learning: Python Foundations (Day 8 (12 Aug 2026) — File Handling: Read/Write Project) 💪 ✅
+🔥 Currently Learning: Python Foundations (Day 9 (20 Aug 2026) — Exception Handling: Crash-Proof Apps) 💪 ✅
 
 🛠 Tech Stack: Python | Git | Soon: FastAPI, SQL, RAG, LangChain
 
@@ -76,6 +76,13 @@
 - Key Learning: with = auto close file, w = overwrite, a = append, r = read, file = permanent data — Backend basics!
 - Late night streak: Day 7 (11 Aug) -> Day 8 (12 Aug) 11 PM — Consistency > Time!
 - Code: [day8.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day8.py)
+
+### Day 9 - Exception Handling: Crash-Proof Apps Project ✅ (20 Aug 2026)
+- Exception Handling Mastered: try, except, else, finally, raise, custom errors, ValueError, ZeroDivisionError, FileNotFoundError
+- Projects: Crash-Proof Calculator (ZeroDivision handle), Safe File Reader (3 auto-retries + file not found), Age Validator with Custom Raise (negative & too high check)
+- Key Learning: try = risky code, except = backup plan, else = no error case, finally = always run, raise = custom error throw — Real apps never crash!
+- Comeback: Back after 8-day gap (12 Aug to 20 Aug) — README + LinkedIn synced, streak restarted stronger!
+- Code: [day9.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day9.py)
 
 ---
 Check my repos below for daily progress! 👇
