@@ -2,7 +2,7 @@
 
 🚀 On a 180-day mission: Zero to Pro Python & AI Integration
 
-🔥 Currently Learning: Python Foundations (Day 9 (20 Aug 2026) — Exception Handling: Crash-Proof Apps) 💪 ✅
+🔥 Currently Learning: Python Foundations (Day 10 (1 Sep 2026) — OOP Basics: Classes & Objects) 💪 ✅
 
 🛠 Tech Stack: Python | Git | Soon: FastAPI, SQL, RAG, LangChain
 
@@ -83,6 +83,13 @@
 - Key Learning: try = risky code, except = backup plan, else = no error case, finally = always run, raise = custom error throw — Real apps never crash!
 - Comeback: Back after 8-day gap (12 Aug to 20 Aug) — README + LinkedIn synced, streak restarted stronger!
 - Code: [day9.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day9.py)
+
+### Day 10 - OOP Basics: Classes & Objects Project ✅ (1 Sep 2026)
+- OOP Mastered: class, __init__, self, instance vs class variables, methods, __str__, raise integration, history tracking
+- Projects: Student Grade System (A+ to F with class variable), Crash-Proof BankAccount (deposit/withdraw with ValueError + transaction history), ToDoManager OOP (Day 8 project in OOP)
+- Key Learning: class = blueprint, object = real thing, __init__ = constructor, self = current object, raise = Day 9 + OOP = production apps!
+- Resume: Back with full energy — 10/180 Done, green streak live — OOP basics to build real AI apps!
+- Code: [day10.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day10.py)
 
 ---
 Check my repos below for daily progress! 👇
