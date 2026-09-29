@@ -1,95 +1,62 @@
-# 👋 Hi, I'm Waqar Ahmad | Aspiring AI Application Developer
+# Waqar Ahmad
 
-🚀 On a 180-day mission: Zero to Pro Python & AI Integration
+**AI Application Developer** — Building 15+ real-world AI projects in 180 days.
 
-🔥 Currently Learning: Python Foundations (Day 10 (1 Sep 2026) — OOP Basics: Classes & Objects) 💪 ✅
-
-🛠 Tech Stack: Python | Git | Soon: FastAPI, SQL, RAG, LangChain
-
-🎯 Goal: Build 15+ projects in 180 days and land AI developer role
-
-📌 Building in Public on LinkedIn daily
-
+I build AI applications. Not models. Real apps that people can use.
 
 ---
 
-### Day 0 - War Room Setup ✅
-- Python 3.14.5 installed
-- VS Code + Git configured
-- First code `print("I am ready!")` executed!
-- Journey begins... InshaAllah!
+## About
 
-### Day 1 - Variables, Input, Print Tricks ✅
-- Variables as boxes: str, int, float, bool
-- Input + Type Casting: Why int(input()) needed
-- Print Tricks mastered: sep, end, f-strings, \n
-- Multiple Assignment: x,y,z = 5,10,15 & a=b=c=0
-- Built 3 Projects: Calculator, Swap Trick, AI Intro Card
-- Code: [day1.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day1.py)
-
-### Day 2 - Operators & If-Else ✅
-- Operators Mastered: Arithmetic (+, -, *, /, //, %, **), Comparison (==, >, <), Logical (and, or, not)
-- Logic Building: if, elif, else — How AI makes decisions
-- Built 4 Projects: Even/Odd Checker, Grade Checker (A+ to F), Voting Eligibility, Bill Splitter
-- Key Learning: % for remainder logic, == vs = difference, indentation matters
-- Code: [day2.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day2.py)
-
-### Day 3 - Control Flow: Loops (for, while) & Patterns ✅ (4 Aug 2026)
-- Loops Mastered: for loop (range), while loop, break, continue, nested loops
-- Logic Building: Multiplication Table, Sum & Average with loop, Star Pattern, Guessing Game
-- Key Learning: for = fixed repeats, while = till condition, indentation is life!
-- Comeback: Practiced 2 days, back stronger — No quit!
-- Code: [day3.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day3.py)
-
-### Day 4 - Functions: def, return & Reusability ✅ (5 Aug 2026)
-- Functions Mastered: def, parameters, return, calling functions, reusable code
-- Logic Building: Calculator with Functions (add, sub, mul, div with zero handling), Greet, Even/Odd, Grade Checker, Bill Splitter
-- Key Learning: return vs print difference, function = reusable machine, DRY principle
-- Comeback: From merge conflicts + E325 swap error to successful push — No quit!
-- Code: [day4.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day4.py)
-
-### Day 5 - Lists: sum, max, search, filter, count ✅ (6 Aug 2026)
-- Lists Mastered: Indexing, append, len, loop with list, building logic without built-in max()
-- Logic Building: Sum of list, Find Max (no max() used), Search Item, Filter Even Numbers, Count Occurrences
-- Key Learning: List starts at 0, for n in nums loop, append to build new list, DRY with functions
-- Comeback: Clean push, no merge conflict — Smooth after Day 4 war!
-- Code: [day5.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day5.py)
-
-### Day 6 - Dictionaries: key-value, lookup & Topper Project ✅ (10 Aug 2026)
-- Dictionaries Mastered: dict creation, key-value access, .get(), update/add, .items(), .keys(), .values(), list of dicts
-- Logic Building: Student Records, Grade Adder, Loop with .items(), Find Topper with dict (Day 5 logic reused)
-- Key Learning: List = values only [90,85], Dict = real data {"name": "Waqar", "marks": 90}, key = label, .get() safe
-- Comeback: Back after 2-day break (8-9 Aug), green U to white push in 3 mins — Streak restarted!
-- Code: [day6.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day6.py)
-
-### Day 7 - Tuples & Sets: Immutable & Unique Skills Project 📚 (11 Aug 2026)
-- Tuples Mastered: Immutable (), packing/unpacking, tuple as dict key, faster than list
-- Sets Mastered: Unique {}, no duplicates, set() from list, add/discard, Union |, Intersection &, Difference -
-- Logic Building: Remove duplicates 1-liner `list(set())`, Common Skills Finder, Unique Voters Counter, Coordinates as tuple
-- Key Learning: Tuple = fixed data (DOB, coords), Set = unique only + fast membership, {} is dict not set!
-- Comeback: Git rebase learned - `rejected` -> `pull --rebase` -> push - Real team workflow!
-- Code: [day7.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day7.py)
-
-### Day 8 - File Handling: Read, Write & To-Do App Project ✅ (12 Aug 2026)
-- File Handling Mastered: with open() as f, modes w/r/a, read(), write(), append, line-by-line loop
-- Projects: Notes Creator (w), Students Marks Saver + Topper Finder from file, To-Do List App (Real App Logic), Word Counter
-- Key Learning: with = auto close file, w = overwrite, a = append, r = read, file = permanent data — Backend basics!
-- Late night streak: Day 7 (11 Aug) -> Day 8 (12 Aug) 11 PM — Consistency > Time!
-- Code: [day8.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day8.py)
-
-### Day 9 - Exception Handling: Crash-Proof Apps Project ✅ (20 Aug 2026)
-- Exception Handling Mastered: try, except, else, finally, raise, custom errors, ValueError, ZeroDivisionError, FileNotFoundError
-- Projects: Crash-Proof Calculator (ZeroDivision handle), Safe File Reader (3 auto-retries + file not found), Age Validator with Custom Raise (negative & too high check)
-- Key Learning: try = risky code, except = backup plan, else = no error case, finally = always run, raise = custom error throw — Real apps never crash!
-- Comeback: Back after 8-day gap (12 Aug to 20 Aug) — README + LinkedIn synced, streak restarted stronger!
-- Code: [day9.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day9.py)
-
-### Day 10 - OOP Basics: Classes & Objects Project ✅ (1 Sep 2026)
-- OOP Mastered: class, __init__, self, instance vs class variables, methods, __str__, raise integration, history tracking
-- Projects: Student Grade System (A+ to F with class variable), Crash-Proof BankAccount (deposit/withdraw with ValueError + transaction history), ToDoManager OOP (Day 8 project in OOP)
-- Key Learning: class = blueprint, object = real thing, __init__ = constructor, self = current object, raise = Day 9 + OOP = production apps!
-- Resume: Back with full energy — 10/180 Done, green streak live — OOP basics to build real AI apps!
-- Code: [day10.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day10.py)
+- On a 180-day mission: Python to AI Application Developer.
+- Currently building: Python foundations, OOP, and real-world projects.
+- Location: Faisalabad, Pakistan | BSCS @ GCUF
+- Open to: AI/Software Internships — Remote, Hybrid, On-site
+- LinkedIn: [linkedin.com/in/waqarahmaddev](https://www.linkedin.com/in/waqarahmaddev)
+- Email: waqar.ahmad22235@gmail.com
 
 ---
-Check my repos below for daily progress! 👇
+
+## Current Focus
+
+**Phase 1: Python Foundations (Day 0-30)**
+
+- Completed: Day 0-10 — Variables, Operators, If-Else, Loops, Functions, Lists, Dictionaries, Tuples & Sets, File Handling, Exception Handling, OOP Basics.
+- Next: Day 11 — Inheritance & Polymorphism.
+- After that: Encapsulation, Abstraction, Modules, Intermediate Projects.
+
+---
+
+## Projects Built
+
+| Project | Description | Code |
+|---------|-------------|------|
+| Crash-Proof BankAccount | deposit/withdraw with ValueError and transaction history | [day10.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day10.py) |
+| Student Grade System | Class-based grade system with A+ to F logic | [day10.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day10.py) |
+| ToDoManager | OOP to-do app with file persistence | [day10.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day10.py) |
+
+---
+
+## Tech Stack
+
+**Languages:** Python, SQL
+**Frameworks:** FastAPI, LangChain (learning)
+**Tools:** Git, GitHub, VS Code
+**Concepts:** OOP, File Handling, Exception Handling
+
+---
+
+## 180-Day Roadmap
+
+| Phase | Days | Focus |
+|-------|------|-------|
+| 1 | 0-30 | Python Foundations |
+| 2 | 31-60 | SQL & Data |
+| 3 | 61-90 | FastAPI |
+| 4 | 91-120 | LangChain, RAG, Vector DBs |
+| 5 | 121-150 | AI Agents |
+| 6 | 151-180 | Portfolio & Applications |
+
+---
+
+**Main Repo:** [180-days-python-ai](https://github.com/waqarahmaddev/180-days-python-ai)
