@@ -35,11 +35,11 @@
 
 **Phase 1: Python Foundations (Day 0-30)**
 
-- ✅ Completed: Day 0-10 — Variables, Operators, If-Else, Loops, Functions, Lists, Dictionaries, Tuples & Sets, File Handling, Exception Handling, OOP Basics.
-- 🎯 Next: Day 11 — Inheritance & Polymorphism.
-- 🔜 After that: Encapsulation, Abstraction, Modules, Intermediate Projects.
+- ✅ Completed: Day 0-11 — Variables, Operators, If-Else, Loops, Functions, Lists, Dictionaries, Tuples & Sets, File Handling, Exception Handling, OOP Basics, Inheritance & Polymorphism.
+- 🎯 Next: Day 12 — Encapsulation & Abstraction.
+- 🔜 After that: Modules, Intermediate Projects.
 
-**Currently learning:** Inheritance, Polymorphism, and FastAPI basics.
+**Currently learning:** Encapsulation, Abstraction, and FastAPI basics.
 
 ---
 
@@ -60,6 +60,9 @@
 
 | Project | Description | Code |
 |---------|-------------|------|
+| BankAccount -> SavingsAccount | Inheritance with super() and interest calculation | [day11.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day11.py) |
+| Person -> Student -> Teacher | Polymorphism with get_role() override | [day11.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day11.py) |
+| Shape -> Circle, Rectangle | Polymorphism with area() override | [day11.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day11.py) |
 | Crash-Proof BankAccount | deposit/withdraw with ValueError and transaction history | [day10.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day10.py) |
 | Student Grade System | Class-based grade system with A+ to F logic | [day10.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day10.py) |
 | ToDoManager | OOP to-do app with file persistence | [day10.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day10.py) |
