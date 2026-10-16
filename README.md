@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Waqar Ahmad 👋</h1>
 
 <p align="center">
-  <strong>AI Application Developer</strong> — Building 15+ real-world AI projects in 180 days.
+  <strong>Python Developer in Progress</strong> — Building 15+ real-world AI projects in 180 days.
 </p>
 
 <p align="center">
-  I build AI applications. Not models. Real apps that people can use.
+  I am learning to build AI applications by building real things. Not just watching tutorials.
 </p>
 
 <p align="center">
@@ -35,11 +35,11 @@
 
 **Phase 1: Python Foundations (Day 0-30)**
 
-- ✅ Completed: Day 0-11 — Variables, Operators, If-Else, Loops, Functions, Lists, Dictionaries, Tuples & Sets, File Handling, Exception Handling, OOP Basics, Inheritance & Polymorphism.
-- 🎯 Next: Day 12 — Encapsulation & Abstraction.
-- 🔜 After that: Modules, Intermediate Projects.
+- ✅ Completed: Day 0-12 — Variables, Operators, If-Else, Loops, Functions, Lists, Dictionaries, Tuples & Sets, File Handling, Exception Handling, OOP Basics, Inheritance & Polymorphism, Encapsulation & Abstraction.
+- 🎯 Next: Day 13 — Magic Methods.
+- 🔜 After that: Modules, Virtual Environments, Library Management System.
 
-**Currently learning:** Encapsulation, Abstraction, and FastAPI basics.
+**Currently learning:** Magic Methods, Modules, and FastAPI basics.
 
 ---
 
@@ -60,6 +60,8 @@
 
 | Project | Description | Code |
 |---------|-------------|------|
+| BankAccount with Encapsulation | Private balance with @property getter and setter validation | [day12.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day12.py) |
+| Shape with Abstraction | Abstract base class with Circle and Rectangle implementations | [day12.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day12.py) |
 | BankAccount -> SavingsAccount | Inheritance with super() and interest calculation | [day11.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day11.py) |
 | Person -> Student -> Teacher | Polymorphism with get_role() override | [day11.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day11.py) |
 | Shape -> Circle, Rectangle | Polymorphism with area() override | [day11.py](https://github.com/waqarahmaddev/180-days-python-ai/blob/main/01-python-foundations/day11.py) |
